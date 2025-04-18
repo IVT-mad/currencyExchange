@@ -1,5 +1,3 @@
-from audioop import reverse
-
 import requests
 
 API_KEY = '99cc8b4e06d75f01d4e794f4aa5addb1'
