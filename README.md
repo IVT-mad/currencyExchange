@@ -1,3 +1,7 @@
+# 🤖 Exchange Rate Bot
+
+Try it now on Telegram → [@ExchangeRateBotProviderBot](https://t.me/ExchangeRateBotProviderBot)
+
 # 💱 ExchangeBot
 
     Telegram bot that provides real-time currency exchange rates via API and Central Bank web scraping.
